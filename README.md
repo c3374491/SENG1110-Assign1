@@ -64,7 +64,7 @@ Your program should consist of three classes, with these names and instance vari
 All instance variables of your classes need to be **private** (this is imposed so that you apply the principles of **encapsulation**).
 Your classes will need methods to provide the required functionalities. The only class which should have a **main method** is Clinic.java, which should create an instance of the class Clinic, and call a method run(), which will display the menu to the user. This class will be the only one that takes input from and sends output to the user. It may do so using either TIO or GUI methods (your choice). A template is shown below.
 
-```
+```java
 public class Clinic {
 	private void run(){
 		//...
